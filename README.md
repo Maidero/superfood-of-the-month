@@ -1,12 +1,12 @@
 # SuperFood Inc.
 
 ## Description
-The company decided to create a monthly promotion about a specific superfood. The idea is to create a lead generation landingpage to capture data and to collect info on the target users to connect with them later through a ruffle. To partecipate the user will be asked to subscribe to the newsletter so that he can be sorted and win free superfood for a month.
+The company decided to create a monthly promotion about a specific superfood. The idea is to create a lead generation landingpage to capture data and to collect info on the target users to connect with them later through a raffle. To partecipate the user will be asked to subscribe to the newsletter so that he can be sorted and win free superfood for a month.
 
 
 ## Backlog
 - Mailing
-- Contest Ruffle
+- Contest Raffle
 
 ## UX/UI structure
 
